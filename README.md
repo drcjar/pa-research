@@ -1,2 +1,2 @@
 # pa-research
-prescribing analytics research
+prescribing analytics research by @drcjar
