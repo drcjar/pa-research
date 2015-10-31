@@ -1,0 +1,32 @@
+Prescribing Setting,ppi,ITEMS
+Care Home / Nursing Home,lans,193
+Care Home / Nursing Home,omep,3
+Care Home / Nursing Home,pant,3
+Community Health Service,lans,534
+Community Health Service,omep,18
+Community Health Service,pant,9
+GP Practice,lans,1846517
+GP Practice,omep,10194
+GP Practice,pant,88633
+Hospice,lans,84
+Hospice,omep,4
+Hospice,pant,4
+Hospital Service,lans,101
+Hospital Service,omep,15
+Hospital Service,pant,1
+OOH Practice,lans,1660
+OOH Practice,omep,11
+OOH Practice,pant,33
+Other,lans,310
+Other,omep,4
+Other,pant,10
+Prison,lans,3
+Public Health Service,lans,69
+Public Health Service,pant,1
+Urgent & Emergency Care,lans,136
+Urgent & Emergency Care,pant,1
+WIC + OOH Practice,lans,39
+WIC + OOH Practice,omep,1
+WIC Practice,lans,312
+WIC Practice,omep,1
+WIC Practice,pant,6
